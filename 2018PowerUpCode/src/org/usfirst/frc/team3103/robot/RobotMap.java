@@ -18,12 +18,14 @@ public class RobotMap {
 	// following variables to use with your drivetrain subsystem.
 	// public static int leftMotor = 1;
 	// public static int rightMotor = 2;
-	
+
 	//Can Devices
 	public static int flMotor = 0;
 	public static int frMotor = 1;
 	public static int blMotor = 2;
 	public static int brmotor = 3;
+
+	public static String eclipse = "sucks"; 
 
 	// If you are using multiple modules, make sure to define both the port
 	// number and the module. For example you with a rangefinder:
